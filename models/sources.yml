@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: public
+    database: IMPROVADOASSIGNMENT
+    schema: PUBLIC
+    tables:
+      - name: FACEBOOK_ADS
+      - name: GOOGLE_ADS
+      - name: TIKTOK_ADS
